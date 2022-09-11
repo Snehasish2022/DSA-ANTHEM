@@ -65,7 +65,8 @@ int main()
     st.pop();
     st.pop();
     st.Top();
-    
+
     cout<<st.isempty();
     return 0;
 }
+
